@@ -16,7 +16,7 @@
 * 支持中文字体（本地路径），跨平台可用开源字体
 
 ## 预览
-![示例：3x3 拼字表情](examples/preview_grid.png)
+![示例：3x3 拼字表情](https://github.com/llz162652/fxbqb-studio/blob/main/examples/demo_grid.png)
 
 ---
 
