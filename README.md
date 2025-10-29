@@ -46,7 +46,7 @@
 ---
 
 ## 🧰 环境要求
-- **Python** 3.9+
+- **Python** 3.8+
 - Windows / macOS / Linux（均可本地运行）
 - 建议使用虚拟环境（如 venv）
 
