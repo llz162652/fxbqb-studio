@@ -57,6 +57,8 @@
 ```bash
 # 1) 安装依赖
 pip install -r requirements.txt
+pip install gradio
+pip install pillow
 
 # 2) 启动本地网页端（推荐）
 python app.py
